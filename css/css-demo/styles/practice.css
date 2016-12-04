@@ -1,0 +1,22 @@
+section #contact-info {
+	font-size: .8em;
+}
+
+section.job { 
+	background-color: #e9e5dc;
+	border-radius:10px;
+	margin-top: 5px;
+	padding: 5px;
+	
+	}
+
+	ul.list {
+		font-size: .8em;
+	}
+
+	/* When multiple stylesheets are linked to an HTML file, cascading is used to determine which rule should apply to a specific part of the HTML. */
+	/* The broswer would use the most specific element */
+	/* A pseudoselector is a rule that defines the changing of an element from one state to another. Example: WHen hovering over a green button, it will change into blue.*/
+div:hover h1{
+	background-color: orange
+}
