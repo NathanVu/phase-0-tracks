@@ -1,0 +1,32 @@
+Release 1: 
+
+Algorithm for using an elevator
+
+Step 1- Move forward inside an elevator until elevator is reached.
+Step 2- Move left and turn around until facing elevator floor buttons.
+Step 3-Elevator will travel in a single direction until the last request in that direction
+Step 4-press button on the desired floor.
+Step 5- Button will lit up.
+Step 6-If there is no request from other direction, continue to proceed towards other directions.
+Step 7- Until elevator stops on your floor.
+Step 8- Move forward out of the elevator. 
+Step 9- If there is any request from other direction, stop and repeat step 3
+ 
+ 
+ 
+ 
+Release 2:
+ 
+Here’s an algorithm for arranging a cold call to clients from work:
+ 
+Step 1-Pick up phone and put it next to your ear
+Step 2-Wait and hear for a dial tone.
+-If
+Step 3-If no pick up, hang up phone (5 minutes until loop back and repeat step two again) 
+Step 4- If the second call passes with no answers, leave a message and then hang up
+Step 5-Leave a follow up call for next day.
+Step 6-Wait until 23:30:00 (30 seconds until reach 24 hrs.)
+Step 7-Repeat step two.
+-Otherwise:
+Step 8- If answer phone call, greet with Hi.
+Step 9- Follow written sales script. 
