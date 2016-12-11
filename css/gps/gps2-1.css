@@ -1,0 +1,54 @@
+
+  
+}
+
+body {
+ font-family: sans-serif;
+ margin: 0 auto;
+
+}
+header {
+  
+  background-image: url("https://s-media-cache-ak0.pinimg.com/236x/20/cf/75/20cf75b89b94dfe6fe86c93c3c82ed70.jpg");
+  margin: 0 auto; 
+  border: 5px solid;
+  padding: 20px;
+}
+
+header h1{
+  background-color: lightblue;
+}
+
+header p {
+  background-color: lightblue;
+}
+.column-1 {
+  background-color: lightgrey;
+  width: 45%;
+  vertical-align:top;
+  display: inline-block;
+  position: relative;
+   padding: 10px;
+  
+  
+  
+}
+footer {
+  background-color: darkgrey;
+  border: 5px solid;
+  border-color: black;
+  color: white;
+  
+  }
+
+.column-2 {
+  background-color: lightgray;
+  width: 45%;
+  position: relative;
+  float: right;
+   padding: 15px;
+}
+
+code {
+  background-color: white;
+}
