@@ -54,4 +54,4 @@ employees -=1
 end 
 
 puts "Thank you for taking this survey"
-puts "Actually, never mind! What do these questions have to do with anything? Let's all be friends."
+puts "Actually, never mind! What do these questions have to do with anything? Let's all be friends!"
