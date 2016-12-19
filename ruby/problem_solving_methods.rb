@@ -57,6 +57,7 @@ check.last
 # step 5: compare the adjacent numbers is greater than the current number
 # step 6: if right number is less than the left number than swap
 # step 7: else number is not swapped, than number is sorted, break the loop.
+#done
 
 
 #Release 2: Sort an Array
@@ -81,3 +82,5 @@ end
 
 array1 = [1,45,99,2,87,100,3]
 p bubble_sort(array1)
+
+
