@@ -25,34 +25,34 @@ def decrypt(string)
 	alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 	counter = 0
-	 	while counter < string.length
-	 		letter = string[counter]
-	 		current_index = alphabet.index(letter)
-	 		new_index = current_index-1
-	 		string[counter] = alphabet[new_index]
+ 	while counter < string.length
+		letter = string[counter]
+  		letter_index = alphabet.index(letter)
+ 		new_index = letter_index-1
+ 		string[counter] = alphabet[new_index]
 
 
-	 		counter +=1
-	 	end
-	 	string
-	 end
-	 
-	 decrypt("bcd")
-	 decrypt("afe")
-	 
-	 #I beelieve the inside or interior method will run first for encrypt. Eventually it will run decrypt last since it is on the outside. Ultimatelly, it will reverse the encrypt method.
+ 		counter +=1
+ 	end
+ 	string
+ end
+ 
+ decrypt("bcd")
+ decrypt("afe")
+ 
+ #I beelieve the inside or interior method will run first for encrypt. Eventually it will run decrypt last since it is on the outside. Ultimatelly, it will reverse the encrypt method.
 
-	 
-	 puts "What is your name? Would you like to decrypt or encrypt?"
-	 password = gets.chomp 
-	 
-	 if password == "encrypt" || password == "decrypt"
-	   puts" That's great"
-	   
-	   puts "What is your password?"
-	   password_2 = gets.chomp 
-	   puts "#{password_2}"
-	 end
+ 
+ puts "What is your name? Would you like to decrypt or encrypt?"
+ password = gets.chomp 
+ 
+ if password == "encrypt" || password == "decrypt"
+   puts" That's great"
+   
+   puts "What is your password?"
+   password_2 = gets.chomp 
+   puts "#{password_2}"
+ end
 	 
 	 
 

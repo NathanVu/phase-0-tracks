@@ -22,6 +22,9 @@ post_hash[:name] = gets.chomp
   end 
  
 
+
+#application for 
+
 loop do 
   
 puts "what style of decor theme do you like?"

@@ -38,4 +38,4 @@ p	DonaldTrump.yell_happily ( "HI there")
 
 	HillaryCLinton = HillaryCLinton.new
 p	HillaryCLinton.yell_happily ("Vote for me")
-p	HillaryCLinton.yell_angrily ( "I hate the russians")
+p	HillaryCLinton.yell_angrily ( "I hate the russians!")

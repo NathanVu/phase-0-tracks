@@ -1,5 +1,14 @@
 
 
+
+=begin 
+
+This is my driver code. Practicing nesting putting employees in store department with products in Grocery stores. 
+Departments are nested within my gorcey store hash. Food items are nested within my departments. Employees are hashes nested in my hash.  Within employees department, I have 8 employees,
+4 different job titles.
+
+
+=end 
 grocery_store = {
       departments: {
           meat: ["ground beef", "chicken breast", "steak"],
